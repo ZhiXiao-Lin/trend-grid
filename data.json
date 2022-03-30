@@ -1,0 +1,16 @@
+{
+	"runBet": {
+		"nextBuyPrice": 47307.57361031,
+		"gridSellPrice": 49485.41587369,
+		"step": 0,
+		"recordedPrice": []
+	},
+	"config": {
+		"profitRatio": 2.25,
+		"doubleThrowRatio": 2.25,
+		"symbol": "BTCUSDT",
+		"quantity": [
+			0.001
+		]
+	}
+}
