@@ -11,7 +11,9 @@
     "start": "nest start",
     "start:prod": "cross-env NODE_ENV=prod nest start",
     "data": "cross-env CONFIG=true yarn start",
-    "data:prod": "cross-env CONFIG=true NODE_ENV=prod yarn start"
+    "data:prod": "cross-env CONFIG=true NODE_ENV=prod yarn start",
+    "sync": "cross-env SYNC=true nest start",
+    "sync:prod": "cross-env NODE_ENV=prod SYNC=true nest start"
   },
   "dependencies": {
     "@ionia/http": "^0.0.3",

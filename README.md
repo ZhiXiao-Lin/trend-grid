@@ -26,6 +26,9 @@ PUSHER_UIDS=
 // 安装依赖
 yarn
 
+// 同步数据库表结构
+yarn sync
+
 // 交互式配置参数
 yarn data
 
